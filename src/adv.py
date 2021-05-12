@@ -63,6 +63,32 @@ populate_rooms()
 #
 # If the user enters "q", quit the game.
 
+# player1 = Player('Jack', room['outside'])
+# validSession = True
+
+# print(f'Welcome {player.name} \n')
+# while validSession == True:
+        
+#     print(f'You are {player.current_room} \n', room['outside'].description)
+#     choice = input(f'Adventure awaits. Which direction would you like to travel in first? \n Enter N, E, S or W or enter Q to quit')
+    
+#     if choice == 'Q':
+#         print(f'Goodbye! See you next time.')
+#         break
+               
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 player1 = Player('Bobert', room['outside'].name) 
 
